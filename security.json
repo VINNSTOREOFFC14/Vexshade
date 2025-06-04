@@ -1,0 +1,11 @@
+{
+  "security": true,
+  "githubControl": true,
+  "destroyMode": "false", 
+  "destroyFiles": [
+  "Vexshade.js"
+  "package.json",
+    "scrape",
+    "node_modules"
+  ]
+}
